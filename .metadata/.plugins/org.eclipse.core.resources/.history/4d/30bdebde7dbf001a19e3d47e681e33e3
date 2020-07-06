@@ -1,0 +1,16 @@
+/*
+ * 객체추상화
+ * 다음과 같은 StudentVO 생성
+ * 학번 : num, "00001"
+ * 이름 : name, "홍길동"
+ * 학년 : grade, 3
+ * 전공 : dept, "컴퓨터공학"
+ * 
+ * 각 필드의 type을 무엇으로 ?
+ * 변수는 private > getter, setter method 설정
+ */
+package com.biz.student.domain;
+
+public class Student {
+
+}

@@ -1,0 +1,8 @@
+package com.biz.student.exec;
+
+public class StudentEx_02 {
+
+	public static void main(String[] args) {
+		
+	}
+}
